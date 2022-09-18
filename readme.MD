@@ -1,4 +1,4 @@
-# Stonks - Team Heathens - HackTU 2.0
+# Stonks - Team 69CR - Hack The Mountains 3.0
 
 > <Subtitle>
 > Stock market simplified
@@ -63,8 +63,11 @@ $ npm start
 
 ## Contributors
 
-- <a href="https://github.com/RajatSablok">Rajat Sablok</a>
 - <a href="https://github.com/Naman-2001">Naman Aggarwal</a>
+- <a href="https://github.com/HarshKhandelwal101">Harsh Khandelwal</a>
+- <a href="https://github.com/pranavs036">Pranav Sharma</a>
+- <a href="https://github.com/Anirudh1811">Anirudh Kanojia</a>
+
 
 ## License
 
