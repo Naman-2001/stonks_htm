@@ -1,0 +1,33 @@
+{
+    "it" : [
+        "tcs",
+        "wipro",
+        "infosys",
+        "hcl",
+        "redington"
+    ],
+
+    "auto" : [
+        "mahindra",
+        "hero motocorp",
+        "tata motors",
+        "bajaj",
+        "maruti"
+    ],
+
+    "energy" : [
+        "reliance power",
+        "eveready",
+        "adani power",
+        "ntpc",
+        "jsw energy"
+    ],
+
+    "pharma" : [
+        "aarti drugs",
+        "cipla",
+        "gland pharma",
+        "abbott india",
+        "lupin"
+    ]
+}
